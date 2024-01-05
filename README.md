@@ -30,7 +30,7 @@
 <img style="margin: 10px" src="https://github.com/HadhemiAYARI/HadhemiAYARI/blob/main/SVGs//mysql.svg" alt="Mysql" height="50" />  
 <img style="margin: 10px" src="https://github.com/HadhemiAYARI/HadhemiAYARI/blob/main/SVGs//oracle.svg" alt="Oracle" height="50" /> 
 <img style="margin: 10px" src="https://github.com/HadhemiAYARI/HadhemiAYARI/blob/main/SVGs//git.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://github.com/HadhemiAYARI/HadhemiAYARI/blob/main/SVGs//PowerBI.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://github.com/HadhemiAYARI/HadhemiAYARI/blob/main/SVGs//PowerBI.svg" alt="PowerBI" height="50" />  
 </div>
 
 <br/>
@@ -63,5 +63,4 @@
 - [Web Scraping for Specified Data Export](https://medium.com/@hadhemiayari/web-scraping-for-specified-data-export-7795e4760d49)
 - [MySQL with Python: One of the must-have skills for data analysts](https://medium.com/@hadhemiayari/mysql-with-python-one-of-the-must-have-skills-for-data-analysts-84ac6228eeda)
 - [Power BI Dashboard for Netflix dataset Analysis](https://medium.com/@hadhemiayari/power-bi-dashboard-for-netflix-dataset-analysis-73b96cf8ab36)
-- 
 <!-- BLOG-POST-LIST:END -->
