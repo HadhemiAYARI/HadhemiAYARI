@@ -1,6 +1,6 @@
 ### Hi there, I'm Hadhemi AYARI! 👋
 
-- 🎖️ I am tableau, SQL and python for Data science certified with expertise in programming languages such as Python, SQL databases and data visualisation tools such as Power BI and Tableau.
+- 🎖️ I am Power BI, tableau, SQL and python certified with expertise in programming languages such as Python, SQL databases and data visualisation tools.
 - 🎓 I hold a engineer's degree in computer science. 
 - 🔭 I'm currently Data Analyst at [Ooredoo TN](https://www.ooredoo.tn/Business/en/accueil).
 - 🎯 I'm skilled in most steps of data Analyst: pre-processing data, applying Data Wrangling methods, developing of tasks automaed solution, visualising data and communicating results.
