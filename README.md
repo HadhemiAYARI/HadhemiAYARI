@@ -31,6 +31,7 @@
 <img style="margin: 10px" src="https://github.com/HadhemiAYARI/HadhemiAYARI/blob/main/SVGs//oracle.svg" alt="Oracle" height="50" /> 
 <img style="margin: 10px" src="https://github.com/HadhemiAYARI/HadhemiAYARI/blob/main/SVGs//git.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://github.com/HadhemiAYARI/HadhemiAYARI/blob/main/SVGs//PowerBI.svg" alt="PowerBI" height="50" />  
+<img style="margin: 10px" src="https://github.com/HadhemiAYARI/HadhemiAYARI/blob/main/SVGs//talend-logo-vector.svg" alt="Talend" height="50" />
 </div>
 
 <br/>
